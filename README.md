@@ -1,2 +1,2 @@
 # Distributed-Linux-Performance-Monitoring
-A distributed Linux performance monitoring system built based on C++ and gRPC.
+A distributed Linux performance monitoring system built based on C++ and gRPC. It deploys a multi-node environment through Docker containerization to achieve real-time collection and analysis of CPU, memory, network and other resources. Combined with the gRPC framework and Qt visual interface, it supports high-concurrency and low-latency distributed monitoring and stress testing scenario simulation.
